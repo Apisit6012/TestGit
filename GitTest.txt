@@ -1,4 +1,8 @@
 TestGit
 ----------------
 1. Push test 
+    : Pass 
+----------------
+2. Pull test 
+    :
 
